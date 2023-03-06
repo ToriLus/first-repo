@@ -33,3 +33,4 @@ for (i = 0; i < 1; i++){
 ```
 
 inline code is just `i === 0` 
+[Markdown Code Cheetsheet](https://www.markdownguide.org)
